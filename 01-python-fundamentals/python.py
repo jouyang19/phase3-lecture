@@ -58,7 +58,7 @@ else:
 10 < 15   # less than => True
 10 > 15   # greater than => False
 4 <= 4    # less than/equal => True
-4 >= 5    # greather than/equal => False
+4 >= 5    # greater than/equal => False
 12 == 12  # equal => True
 12 != 12  # no equal => False
 
