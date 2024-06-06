@@ -36,7 +36,6 @@ class Rectangle:
     @height.setter
     def height(self, new_height):
         '''Sets the new height'''
-        self._height = new_height
         if isinstance(new_height, int) and new_height > 0:
             self._height = new_height
         else:
